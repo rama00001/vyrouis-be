@@ -7,3 +7,6 @@
 # task controller : task
 # used atlas mongodb for database
 # run backend and front end for complete functionality. 
+# controllers
+# models
+# routes
